@@ -11,6 +11,9 @@ hl.config({
     },
     dwindle = {
         preserve_split = true,
+    },
+    debug = {
+        vfr = true,
     }
 })
 
