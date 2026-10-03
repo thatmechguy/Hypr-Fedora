@@ -235,13 +235,13 @@ wallpaper_scheme = "soft"
     ]
 
 [wallpaper.default]
-path = "/home/chirayu/Pictures/Wallpapers/wallhaven-w5xdlp.jpg"
+path = "/home/chirayu/Pictures/Wallpapers/wallhaven-7jxx19.jpg"
 
 [wallpaper.last]
-path = "/home/chirayu/Pictures/Wallpapers/wallhaven-w5xdlp.jpg"
+path = "/home/chirayu/Pictures/Wallpapers/wallhaven-7jxx19.jpg"
 
 [wallpaper.monitors.eDP-1]
-path = "/home/chirayu/Pictures/Wallpapers/wallhaven-w5xdlp.jpg"
+path = "/home/chirayu/Pictures/Wallpapers/wallhaven-7jxx19.jpg"
 
 [widget.cpu]
 display = "text"

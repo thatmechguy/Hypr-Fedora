@@ -1,6 +1,6 @@
 hl.config({
     misc = {
-        vrr = 0,
+        -- vrr = 3,
         disable_hyprland_logo = true,
         disable_splash_rendering = true,
         middle_click_paste = false,
